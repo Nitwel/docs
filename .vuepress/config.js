@@ -96,6 +96,7 @@ module.exports = {
           '/extensions/auth-providers',
           '/extensions/custom-endpoints',
           '/extensions/hooks',
+          '/extensions/structure',
           '/extensions/interfaces',
           '/extensions/layouts',
           '/extensions/pages',
